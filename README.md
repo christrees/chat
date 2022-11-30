@@ -6,16 +6,7 @@ Rogelio text me at time and click the link.
 
 ---
 
-test
-
-[Send text alert](sms:+15159990007?&body=Chat%20site%20alert)
+[Send text alert](sms:+15159990007?&body=Rogelio%30chat%20site%20alert) click here to send me a text alert if your ready to jump in now.
 
 ---
 
-test
-
-<div>
-  <a href="sms:+15159990007?&body=Hi%2520there%252C%2520I%2527d%2520like%2520to%2520place%2520an%2520order%2520for...">Click here to text</a>
-</div>
-
----
