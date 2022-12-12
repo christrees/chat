@@ -2,7 +2,7 @@
 
 [Cat chat click here](https://meet.google.com/jqz-tnbz-zbn)
 
-Rogelio text me at time and click the cat link above.
+<!-- Rogelio text me at time and click the cat link above. -->
 
 I need to be online and let you into the chat link above.
 
