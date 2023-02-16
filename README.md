@@ -2,7 +2,7 @@
 
 # chat
 
-[Cat chat click here brave]([https://meet.google.com/jqz-tnbz-zbn](https://talk.brave.com/AjCyyMe2uJgiji8lDhwb7oeNg1GCRM2-9uf3j4-MKo4))
+[Cat chat click here brave](https://talk.brave.com/AjCyyMe2uJgiji8lDhwb7oeNg1GCRM2-9uf3j4-MKo4)
 
 <!-- Rogelio text me at time and click the cat link above. 
 
