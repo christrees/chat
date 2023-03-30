@@ -2,7 +2,11 @@
 
 # chat
 
+[cat chat click here to enter](https://meet.google.com/ecv-psja-rec)
+
+<!--
 [Cat chat click here brave](https://talk.brave.com/G-7UUtUyb2BaZns07oMlLF3ww7DZi6Xi6PEC8HS_eMs)
+-->
 
 <!-- Rogelio text me at time and click the cat link above. 
 
