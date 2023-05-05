@@ -1,6 +1,6 @@
 [edit](https://github.com/christrees/chat/edit/main/README.md)
 
-# chat
+# [Join Alice Trees donut chat](https://meet.google.com/ecv-psja-rec)
 
 ![AliceTrees-Donuts-PXL_20230505_195151839.jpg](./AliceTrees-Donuts-PXL_20230505_195151839.jpg)
 
