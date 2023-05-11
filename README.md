@@ -2,6 +2,8 @@
 
 # [Join Alice Trees donut chat](https://meet.google.com/ecv-psja-rec)
 
+<iframe width=520 height=316 src="https://www.youtube.com/live_chat?v=@christrees" frameborder=0 allowfullscreen=""></iframe>
+
 ![AliceTrees-Donuts-PXL_20230505_195151839.jpg](./AliceTrees-Donuts-PXL_20230505_195151839.jpg)
 
 [cat chat click here to enter](https://meet.google.com/ecv-psja-rec)
