@@ -2,7 +2,9 @@
 
 # [Join Alice Trees donut chat](https://meet.google.com/ecv-psja-rec)
 
-<iframe width=520 height=316 src="https://www.youtube.com/live_chat?v=@christrees" frameborder=0 allowfullscreen=""></iframe>
+<iframe width=520 height=316 src="https://www.youtube.com/embed/live_stream?channel=UCQzfBmibUKwxQjpCyGLyjnw" frameborder=0 allowfullscreen=""></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6lb_-nYDPIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![AliceTrees-Donuts-PXL_20230505_195151839.jpg](./AliceTrees-Donuts-PXL_20230505_195151839.jpg)
 
