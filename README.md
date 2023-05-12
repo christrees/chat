@@ -1,5 +1,5 @@
 This Saturday May 13 from 8am - 11am
-# click to [Join donut chat](https://meet.google.com/ecv-psja-rec)
+# click to [Join donut chat](https://meet.google.com/ecv-psja-rec) a google meet-up
 
 The event will be live-streamed on [YouTube - Live Link](https://youtube.com/live/te0hH0BY1lY?feature=share)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/te0hH0BY1lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
