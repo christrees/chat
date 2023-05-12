@@ -1,10 +1,8 @@
 [edit](https://github.com/christrees/chat/edit/main/README.md)
 
-# [Join Alice Trees donut chat](https://meet.google.com/ecv-psja-rec)
+# click to [Join donut chat](https://meet.google.com/ecv-psja-rec)
 
 [Link](https://youtube.com/live/te0hH0BY1lY?feature=share)
-
-<iframe width=520 height=316 src="https://youtube.com/live/te0hH0BY1lY?feature=share" frameborder=0 allowfullscreen=""></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/te0hH0BY1lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
