@@ -1,12 +1,11 @@
-[edit](https://github.com/christrees/chat/edit/main/README.md)
-
+This Saturday May 13 from 8am - 11am
 # click to [Join donut chat](https://meet.google.com/ecv-psja-rec)
-
-[Link](https://youtube.com/live/te0hH0BY1lY?feature=share)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/te0hH0BY1lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![AliceTrees-Donuts-PXL_20230505_195151839.jpg](./AliceTrees-Donuts-PXL_20230505_195151839.jpg)
+
+[Link](https://youtube.com/live/te0hH0BY1lY?feature=share)
 
 [cat chat click here to enter](https://meet.google.com/ecv-psja-rec)
 
@@ -27,3 +26,5 @@ Click here ->  [Send text alert](sms:+15159990007?&body=Rogelio%20chat%20site%20
 -->
 
 ---
+[edit](https://github.com/christrees/chat/edit/main/README.md)
+
